@@ -1,14 +1,14 @@
 [
   {
-    "name": "&aAvailability: Part 1",
+    "name": "&r&aAvailability: Part 1",
     "icon": "CLOCK",
     "lore": [
-      "&7『 ",
-      "&7〚 Availability is a map based on a story",
-      "&7〚 from the 1920s. Meet WW2. The war known",
-      "&7〚 by most of humanity. Explore it with high",
-      "&7〚 Availability.",
-      "&7"
+      "&r&7『 ",
+      "&r&7〚 Availability is a map based on a story",
+      "&r&7〚 from the 1920s. Meet WW2. The war known",
+      "&r&7〚 by most of humanity. Explore it with high",
+      "&r&7〚 Availability.",
+      "&r&7"
     ]
   }
 ]
