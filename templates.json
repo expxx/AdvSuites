@@ -1,5 +1,6 @@
 [
   {
+    "id": 1
     "name": "&r&aAvailability: Part 1",
     "icon": "CLOCK",
     "lore": [
@@ -12,7 +13,8 @@
     ]
   },
   {
-    "name": "&r&aAvailability: Part 1",
+    "id": 2,
+    "name": "&r&aAvailability: Part 2",
     "icon": "CLOCK",
     "lore": [
       "&r&7『 ",
