@@ -5,5 +5,10 @@
     "lore": [
       "test"
     ]
+  },
+  {
+    "name": "&aServer",
+    "icon": "GLASS",
+    "lore": []
   }
 ]
