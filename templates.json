@@ -1,14 +1,14 @@
 [
   {
-    "name": "&bDemo",
-    "icon": "GRASS_BLOCK",
+    "name": "&aAvailability: Part 1",
+    "icon": "CLOCK",
     "lore": [
-      "test"
+      "&7『 ",
+      "&7〚 Availability is a map based on a story",
+      "&7〚 from the 1920s. Meet WW2. The war known",
+      "&7〚 by most of humanity. Explore it with high",
+      "&7〚 Availability.",
+      "&7"
     ]
-  },
-  {
-    "name": "&aServer",
-    "icon": "GLASS",
-    "lore": []
   }
 ]
