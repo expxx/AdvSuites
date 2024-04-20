@@ -1,8 +1,9 @@
 [
   {
-    "id": 1
+    "id": 1,
     "name": "&r&aAvailability: Part 1",
     "icon": "CLOCK",
+    "version": "1.20.2",
     "lore": [
       "&r&7『 ",
       "&r&7〚 Availability is a map based on a story",
@@ -16,6 +17,7 @@
     "id": 2,
     "name": "&r&aAvailability: Part 2",
     "icon": "CLOCK",
+    "version": "1.20.4",
     "lore": [
       "&r&7『 ",
       "&r&7〚 Availability is a map based on a story",
